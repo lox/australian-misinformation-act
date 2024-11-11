@@ -1,0 +1,29 @@
+{
+  "filename": "acma2023-e3669-abc.md",
+  "analysis_metadata": {
+    "timestamp": "2024-11-12 03:44:07",
+    "model": "gpt-4o-2024-08-06"
+  },
+  "analysis": {
+    "Overall Position": "Support",
+    "Key Arguments": [
+      "The ABC supports the development of a policy framework that encourages digital platforms to adhere to a code of practice addressing misinformation and disinformation.",
+      "Digital platforms should develop robust systems to address misinformation and disinformation.",
+      "There should be greater public reporting on the volume and nature of misinformation and disinformation, including Australia-specific data.",
+      "Definitions of misinformation and disinformation should be based on objective criteria and observable conduct, not subjective intent.",
+      "The ABC's services should be excluded from the Bill, and the Bill requires clarification on the exclusion of media sharing services.",
+      "Information-gathering powers in the Bill should have limitations similar to those in the Broadcasting Services Act, particularly to protect journalists' sources."
+    ],
+    "Main Themes": [
+      "Support for regulation of misinformation and disinformation",
+      "Need for objective criteria in definitions",
+      "Exclusion of certain media services from the Bill",
+      "Protection of journalistic sources"
+    ],
+    "Notable Quotes": [
+      "Definitions of misinformation, disinformation and excluded categories of content should be based on objective criteria and observable conduct, rather than any subjective intent of the disseminator.",
+      "The information-gathering powers in the Bill should be subject to similar limitations as those under Part 13 of the BSA, which apply in relation to the ACMA’s broadcasting, content and datacasting functions."
+    ],
+    "Stakeholder Type": "Media Organization"
+  }
+}

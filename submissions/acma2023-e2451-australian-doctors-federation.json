@@ -1,0 +1,27 @@
+{
+  "filename": "acma2023-e2451-australian-doctors-federation.md",
+  "analysis_metadata": {
+    "timestamp": "2024-11-12 03:18:30",
+    "model": "gpt-4o-2024-08-06"
+  },
+  "analysis": {
+    "Overall Position": "Oppose",
+    "Key Arguments": [
+      "The definitions of misinformation and disinformation are too broad and could mislabel true or debated medical information.",
+      "Censorship of medical debate could harm the ethical practice of medicine and patient care.",
+      "The proposed ACMA powers could undermine trust between medical practitioners and patients.",
+      "Social media companies should be required to make their algorithms transparent."
+    ],
+    "Main Themes": [
+      "Freedom of medical debate",
+      "Potential harm to healthcare system",
+      "Concerns about broad definitions",
+      "Transparency in social media algorithms"
+    ],
+    "Notable Quotes": [
+      "If this freedom to debate is censored or repressed in any way by labelling any aspect of this debate as misinformation or disinformation then the ethical practice of medicine in Australia will be destroyed and patients harmed as a result.",
+      "This Bill has the potential to undermine the trust between medical practitioners and their patients, thus compromising the integrity of Australia's healthcare system."
+    ],
+    "Stakeholder Type": "Civil society"
+  }
+}

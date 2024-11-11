@@ -1,0 +1,29 @@
+{
+  "filename": "acma2023-28108-peter-feltoe.md",
+  "analysis_metadata": {
+    "timestamp": "2024-11-12 00:59:49",
+    "model": "gpt-4o-2024-08-06"
+  },
+  "analysis": {
+    "Overall Position": "Neutral/Mixed",
+    "Key Arguments": [
+      "The report provides a comprehensive overview of adverse events following immunisation (AEFI) in Western Australia for 2021, with a significant focus on COVID-19 vaccines.",
+      "There was a substantial increase in AEFI reports in 2021 due to the COVID-19 vaccination program, with 10,428 reports compared to 270 in 2020.",
+      "The rates of AEFI for COVID-19 vaccines in WA were similar to national rates, though higher than those reported in the USA, likely due to differences in reporting systems.",
+      "The report highlights the importance of both passive and active surveillance systems in monitoring vaccine safety.",
+      "Specific adverse events of special interest (AESI) such as anaphylaxis, thrombosis with thrombocytopenia syndrome (TTS), and myocarditis were monitored closely."
+    ],
+    "Main Themes": [
+      "Vaccine Safety Surveillance",
+      "COVID-19 Vaccination Program",
+      "Adverse Events Reporting",
+      "Comparison of Local and National Data",
+      "Public and Healthcare Engagement"
+    ],
+    "Notable Quotes": [
+      "The high number of reports following COVID-19 vaccination reflects high engagement from the public and health care providers with the monitoring of vaccine safety.",
+      "The volume of reports allowed rigorous investigation of adverse events. In combination with national and international data, monitoring of AEFSI by WAVSS (e.g. TTS, myocarditis) affected the recommendations by TGA and ATAGI to provide a safer program."
+    ],
+    "Stakeholder Type": "Government/Health Department"
+  }
+}

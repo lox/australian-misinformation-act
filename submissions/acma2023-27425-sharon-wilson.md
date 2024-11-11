@@ -1,0 +1,9 @@
+# As responsible, well adjusted adults it is imperative that we have a basic human right to think critically about information we are presented with on a daily basis. We must DISCERN FOR OURSELVES whether that information is worthy of consideration. Truly informed opinions and decisions can only be reached if ALL information regarding a subject is freely available to everyone who bothers to look, from a multitude of sources that cover ALL sides of a topic. 
+
+ Using COVID as an example of the flow of information flooded upon the masses in recent times, it has become painfully obvious that the only information delivered to the public served to misinform, disinform and downright lie. This narrative came only from those who stood to profit  immensely. Any information contradicting this narrative was harshly dealt with, as were the decent people attempting to deliver a rounded overview of the situation. Forming a governing body that has the right to decide, for its people, what is deemed worthy of being called information and what THEY perceive is misinformation, equates to nothing more than enslaving the population with more of the lies and blatant propaganda that has become so prevalent in mainstream media today. 
+
+ What on God’s green Earth has happened to our right to think and decide for ourselves ?? Everyone has a basic human right to express their opinion. If you don’t like their opinion, that is your right. Don’t read it. But we are walking a very slippery slope if we allow yet another so called governing body to censor our flow of (what they will ultimately perceive as) “useful” information. Even considering forming such a ruling body is yet another violation of human rights! Not only is it morally wrong, but it is a huge travesty of justice of freedom of thought for every individual in this country. This is just another form of censorship to shut down critical thinking and freedom of speech. Enough is enough. 
+
+
+-----
+

@@ -1,0 +1,29 @@
+{
+  "filename": "acma2023-21200-r-spaull.md",
+  "analysis_metadata": {
+    "timestamp": "2024-11-11 22:33:48",
+    "model": "gpt-4o-2024-08-06"
+  },
+  "analysis": {
+    "Overall Position": "Oppose",
+    "Key Arguments": [
+      "The report argues that there is a causal association between the COVID-19 vaccine rollout and an increase in all-cause mortality in Australia.",
+      "It claims that there was no detectable excess mortality during the first 13 months of the pandemic, but a significant increase in mortality coincided with the vaccine rollout starting in mid-April 2021.",
+      "The authors provide a vaccine injection fatality ratio (vIFR) of approximately 0.05%, suggesting that the vaccines are causing deaths.",
+      "They argue that the excess mortality is not due to COVID-19 itself, as the number of deaths registered as from or with COVID-19 is less than half of the excess deaths observed.",
+      "The report dismisses alternative explanations, such as heatwaves, for the observed mortality peaks."
+    ],
+    "Main Themes": [
+      "Vaccine Safety Concerns",
+      "Analysis of Mortality Data",
+      "Criticism of Government and Health Authorities",
+      "Comparison with International Data"
+    ],
+    "Notable Quotes": [
+      "The excess mortality in the vaccination period (mid-April 2021 through August 2022) is more than twice the total number of deaths registered as being from or with COVID-19.",
+      "The step-wise increase in all-cause mortality is synchronous with the COVID-19 vaccine rollout.",
+      "Our analysis leads us to conclude that the excess mortality in the vaccination period...are causally associated with the COVID-19 vaccine."
+    ],
+    "Stakeholder Type": "Academic"
+  }
+}

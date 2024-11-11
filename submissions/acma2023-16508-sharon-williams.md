@@ -1,0 +1,6 @@
+# TO WHOM IT MAY CONCERN
+ I am a 50 year old female and an Australian citizen since 1990. I am appalled and disgusted by the proposed legislation. I came here 30 years ago to escape communism in Eastern Europe and to have freedom. What I see the Australian government doing in the last few years is exactly what I escaped from. Locking up citizens, persecuting, arresting innocent people merely for democratic right of disagreeing with the government, censoring dissent in anyway possible, shooting its own citizens in the back, coercing medical treatments just like the Nazis, and not completely obliterating freedom of our speech. I am ashamed to be Australian. If I was young or had money I would leave this country to where I can be free. It is becoming increasingly dangerous to even speak your mind. This proposed legislation is totalitarian in nature. I find it appalling that the government conveniently excludes itself from its own rules. In my view legislation is an attempt to silence opposing voices and debates is designed to be the last nail in the coffin of our democracy. I may not have long to live, but I fear for our children and grandchildren. I fear for their future. I foresee this will eventually end up in re-education camps, and a dystopian world akin to George Orwell’s 1984. God help us all. 
+
+
+-----
+
