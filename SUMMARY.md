@@ -1,6 +1,79 @@
 # Submissions Summary
 
-## acma2023-tranche-1-15sep23 (2023-09-15)
+## Overall Statistics
+
+Total Submissions: **2267**
+Analyzed: **2251**
+
+### Positions
+
+| Position | Count | Percentage |
+|----------|-------|------------|
+| ✅ Support | 32 | 1.4% |
+| ❌ Oppose | 2067 | 91.8% |
+| ↔️ Mixed | 152 | 6.8% |
+| ❓ Unknown | 16 | 0.7% |
+
+### By Stakeholder Type
+
+| Type | Support | Oppose | Mixed | Unknown |
+|------|---------|---------|--------|----------|
+| 👤 Individual | 4 | 1960 | 9 | 0 |
+| 🌐 Civil Society | 12 | 58 | 19 | 0 |
+| 👤 Individual (Senior English Teacher) | 0 | 1 | 0 | 0 |
+| ❓ N/A | 0 | 0 | 4 | 0 |
+| 🎓 Academic | 6 | 13 | 4 | 0 |
+| 🏢 Industry Association | 1 | 3 | 1 | 0 |
+| 🏛️ Government/Health Department | 0 | 0 | 2 | 0 |
+| 🌐 International Organization | 0 | 0 | 2 | 0 |
+| 🏢 Media Outlet | 0 | 2 | 0 | 0 |
+| 🏛️ Legal/Legislative Reference | 0 | 0 | 1 | 0 |
+| 🏛️ Intergovernmental Organization | 0 | 0 | 1 | 0 |
+| 🏛️ Government | 0 | 0 | 1 | 0 |
+| 🏢 Think Tank | 1 | 0 | 0 | 0 |
+| 👤 Individual (Honours Law Student) | 0 | 1 | 0 | 0 |
+| 🌐 Political Party | 1 | 5 | 0 | 0 |
+| 🌐 Religious Organization | 0 | 2 | 0 | 0 |
+| 👤 Individual (Teacher) | 0 | 2 | 0 | 0 |
+| 🌐 Civil Society (Australian Medical Professionals Society) | 0 | 1 | 0 | 0 |
+| 👤 Individual (Medical Practitioner) | 0 | 1 | 0 | 0 |
+| 🎓 Academic/Research Organization | 0 | 1 | 0 | 0 |
+| 👤 Individual (Registered Nurse) | 0 | 1 | 0 | 0 |
+| 🏢 Tech Company | 1 | 1 | 3 | 0 |
+| 🌐 Civil Society (Religious Organizations) | 0 | 1 | 0 | 0 |
+| 🌐 Civil Society Group | 0 | 1 | 0 | 0 |
+| 🏢 Civil Society (Think Tank) | 0 | 1 | 0 | 0 |
+| 👤 Individual (Librarian And Information Professional) | 0 | 1 | 0 | 0 |
+| 👤 Individual Journalist | 0 | 1 | 0 | 0 |
+| 🏛️ Government Official | 0 | 1 | 0 | 0 |
+| ❓ Educational Institution | 0 | 1 | 0 | 0 |
+| 🏛️ Government Agency | 0 | 0 | 1 | 0 |
+| 🏢 Media Company | 0 | 1 | 0 | 0 |
+| 🌐 Civil Society Organization | 3 | 1 | 0 | 0 |
+| 👤 Individual (Journalist/Writer) | 0 | 1 | 0 | 0 |
+| ❓ Media Organization | 2 | 1 | 0 | 0 |
+| 👤 Individual (Member Of Parliament) | 0 | 2 | 0 | 0 |
+| ❓ Industry Body | 0 | 1 | 0 | 0 |
+| ❓ Multistakeholder Organization (Global Network Initiative) | 0 | 1 | 0 | 0 |
+| 🎓 Academic/Research Institution | 1 | 0 | 0 | 0 |
+
+### By Tranche
+
+| Tranche | Date | Total | Support | Oppose | Mixed |
+|---------|------|-------|---------|---------|-------|
+| acma2023-tranche-1-15sep23 | 2023-09-15 | 148/150 | 1.4% | 77.7% | 20.9% |
+| acma2023-tranche-2-22sep23 | 2023-09-22 | 178/178 | 1.1% | 94.4% | 4.5% |
+| acma2023-tranche-3-28sep23 | 2023-09-28 | 339/341 | 0.6% | 87.3% | 12.1% |
+| acma2023-tranche-4-5oct23_0 | 2023-10-05 | 296/299 | 0.7% | 97.3% | 2.0% |
+| acma2023-tranche-5-23oct23 | 2023-10-23 | 297/297 | 2.0% | 93.9% | 4.0% |
+| acma2023-tranche-6-13nov23 | 2023-11-13 | 150/150 | 0.7% | 94.7% | 4.7% |
+| acma2023-tranche-7-11dec23 | 2023-12-11 | 382/384 | 0.8% | 96.9% | 2.4% |
+| acma2023-tranche-8-18dec23 | 2023-12-18 | 334/338 | 3.3% | 94.3% | 2.4% |
+| acma2023-tranche-9-21dec23 | 2023-12-21 | 127/130 | 2.4% | 74.0% | 23.6% |
+
+## Submissions by Tranche
+
+### acma2023-tranche-1-15sep23 (2023-09-15)
 
 | # | Submitter | PDF | Analysis | Position | Type |
 |---|-----------|-----|----------|----------|------|
@@ -153,7 +226,7 @@
 | 149 | Dee McLachlan | [PDF](submissions/acma2023-e18-dee-mclachlan.pdf) | [Analysis](submissions/acma2023-e18-dee-mclachlan.json) | ❌ | 👤 |
 | 150 | James Orme | [PDF](submissions/acma2023-e437-james-orme.pdf) | [Analysis](submissions/acma2023-e437-james-orme.json) | ↔️ | 👤 |
 
-## acma2023-tranche-2-22sep23 (2023-09-22)
+### acma2023-tranche-2-22sep23 (2023-09-22)
 
 | # | Submitter | PDF | Analysis | Position | Type |
 |---|-----------|-----|----------|----------|------|
@@ -336,7 +409,7 @@
 | 177 | Christine Barber | [PDF](submissions/acma2023-e94-christine-barber.pdf) | [Analysis](submissions/acma2023-e94-christine-barber.json) | ↔️ | ❓ |
 | 178 | Julia Mclachlan | [PDF](submissions/acma2023-e95-julia-mclachlan.pdf) | [Analysis](submissions/acma2023-e95-julia-mclachlan.json) | ❌ | 👤 |
 
-## acma2023-tranche-3-28sep23 (2023-09-28)
+### acma2023-tranche-3-28sep23 (2023-09-28)
 
 | # | Submitter | PDF | Analysis | Position | Type |
 |---|-----------|-----|----------|----------|------|
@@ -680,7 +753,7 @@
 | 340 | Anonymous e703 | [PDF](submissions/acma2023-e703-anonymous.pdf) | [Analysis](submissions/acma2023-e703-anonymous.json) | ❌ | 👤 |
 | 341 | Ulli Austermann | [PDF](submissions/acma2023-e704-ulli-austermann.pdf) | [Analysis](submissions/acma2023-e704-ulli-austermann.json) | ❌ | 👤 |
 
-## acma2023-tranche-4-5oct23_0 (2023-10-05)
+### acma2023-tranche-4-5oct23_0 (2023-10-05)
 
 | # | Submitter | PDF | Analysis | Position | Type |
 |---|-----------|-----|----------|----------|------|
@@ -981,7 +1054,7 @@
 | 298 | Anonymous e978 | [PDF](submissions/acma2023-e978-anonymous.pdf) | [Analysis](submissions/acma2023-e978-anonymous.json) | ❌ | 👤 |
 | 299 | Corey Engele | [PDF](submissions/acma2023-e980-corey-engele.pdf) | [Analysis](submissions/acma2023-e980-corey-engele.json) | ❌ | 👤 |
 
-## acma2023-tranche-5-23oct23 (2023-10-23)
+### acma2023-tranche-5-23oct23 (2023-10-23)
 
 | # | Submitter | PDF | Analysis | Position | Type |
 |---|-----------|-----|----------|----------|------|
@@ -1283,7 +1356,7 @@
 | 296 | Judith Cairns | [PDF](submissions/acma2023-e2290-judith-cairns.pdf) | [Analysis](submissions/acma2023-e2290-judith-cairns.json) | ❌ | 👤 |
 | 297 | Anonymous e2292 | [PDF](submissions/acma2023-e2292-anonymous.pdf) | [Analysis](submissions/acma2023-e2292-anonymous.json) | ❌ | 👤 |
 
-## acma2023-tranche-6-13nov23 (2023-11-13)
+### acma2023-tranche-6-13nov23 (2023-11-13)
 
 | # | Submitter | PDF | Analysis | Position | Type |
 |---|-----------|-----|----------|----------|------|
@@ -1438,7 +1511,7 @@
 | 149 | Anonymous 32478 | [PDF](submissions/acma2023-32478-anonymous.pdf) | [Analysis](submissions/acma2023-32478-anonymous.json) | ❌ | 👤 |
 | 150 | William and Sandra Tento | [PDF](submissions/acma2023-32480-william-and-sandra-tento.pdf) | [Analysis](submissions/acma2023-32480-william-and-sandra-tento.json) | ❌ | 👤 |
 
-## acma2023-tranche-7-11dec23 (2023-12-11)
+### acma2023-tranche-7-11dec23 (2023-12-11)
 
 | # | Submitter | PDF | Analysis | Position | Type |
 |---|-----------|-----|----------|----------|------|
@@ -1825,7 +1898,7 @@
 | 383 | Anonymous 34756 | [PDF](submissions/acma2023-34756-anonymous.pdf) | [Analysis](submissions/acma2023-34756-anonymous.json) | ❌ | 👤 |
 | 384 | Anonymous 34760 | [PDF](submissions/acma2023-34760-anonymous.pdf) | [Analysis](submissions/acma2023-34760-anonymous.json) | ❌ | 👤 |
 
-## acma2023-tranche-8-18dec23 (2023-12-18)
+### acma2023-tranche-8-18dec23 (2023-12-18)
 
 | # | Submitter | PDF | Analysis | Position | Type |
 |---|-----------|-----|----------|----------|------|
@@ -2164,7 +2237,7 @@
 | 337 | Paul and Louise Vocetti | [PDF](submissions/acma2023-e542-aul-and-louise-vocetti.pdf) | [Analysis](submissions/acma2023-e542-aul-and-louise-vocetti.json) | ❌ | 👤 |
 | 338 | Trevor Croll | [PDF](submissions/acma2023-e556-revor-croll.pdf) | [Analysis](submissions/acma2023-e556-revor-croll.json) | ❌ | 👤 |
 
-## acma2023-tranche-9-21dec23 (2023-12-21)
+### acma2023-tranche-9-21dec23 (2023-12-21)
 
 | # | Submitter | PDF | Analysis | Position | Type |
 |---|-----------|-----|----------|----------|------|

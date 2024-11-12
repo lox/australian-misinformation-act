@@ -1,0 +1,413 @@
+{
+  "overall": {
+    "total": 2267,
+    "analyzed": 2251,
+    "positions": {
+      "support": 32,
+      "oppose": 2067,
+      "mixed": 152,
+      "unknown": 16
+    },
+    "percentages": {
+      "support": 1.4,
+      "oppose": 91.8,
+      "mixed": 6.8,
+      "unknown": 0.7
+    }
+  },
+  "by_tranche": {
+    "acma2023-tranche-1-15sep23": {
+      "date": "2023-09-15",
+      "total": 150,
+      "analyzed": 148,
+      "positions": {
+        "support": 2,
+        "oppose": 115,
+        "mixed": 31,
+        "unknown": 2
+      },
+      "percentages": {
+        "support": 1.4,
+        "oppose": 77.7,
+        "mixed": 20.9,
+        "unknown": 1.4
+      }
+    },
+    "acma2023-tranche-2-22sep23": {
+      "date": "2023-09-22",
+      "total": 178,
+      "analyzed": 178,
+      "positions": {
+        "support": 2,
+        "oppose": 168,
+        "mixed": 8,
+        "unknown": 0
+      },
+      "percentages": {
+        "support": 1.1,
+        "oppose": 94.4,
+        "mixed": 4.5,
+        "unknown": 0.0
+      }
+    },
+    "acma2023-tranche-3-28sep23": {
+      "date": "2023-09-28",
+      "total": 341,
+      "analyzed": 339,
+      "positions": {
+        "support": 2,
+        "oppose": 296,
+        "mixed": 41,
+        "unknown": 2
+      },
+      "percentages": {
+        "support": 0.6,
+        "oppose": 87.3,
+        "mixed": 12.1,
+        "unknown": 0.6
+      }
+    },
+    "acma2023-tranche-4-5oct23_0": {
+      "date": "2023-10-05",
+      "total": 299,
+      "analyzed": 296,
+      "positions": {
+        "support": 2,
+        "oppose": 288,
+        "mixed": 6,
+        "unknown": 3
+      },
+      "percentages": {
+        "support": 0.7,
+        "oppose": 97.3,
+        "mixed": 2.0,
+        "unknown": 1.0
+      }
+    },
+    "acma2023-tranche-5-23oct23": {
+      "date": "2023-10-23",
+      "total": 297,
+      "analyzed": 297,
+      "positions": {
+        "support": 6,
+        "oppose": 279,
+        "mixed": 12,
+        "unknown": 0
+      },
+      "percentages": {
+        "support": 2.0,
+        "oppose": 93.9,
+        "mixed": 4.0,
+        "unknown": 0.0
+      }
+    },
+    "acma2023-tranche-6-13nov23": {
+      "date": "2023-11-13",
+      "total": 150,
+      "analyzed": 150,
+      "positions": {
+        "support": 1,
+        "oppose": 142,
+        "mixed": 7,
+        "unknown": 0
+      },
+      "percentages": {
+        "support": 0.7,
+        "oppose": 94.7,
+        "mixed": 4.7,
+        "unknown": 0.0
+      }
+    },
+    "acma2023-tranche-7-11dec23": {
+      "date": "2023-12-11",
+      "total": 384,
+      "analyzed": 382,
+      "positions": {
+        "support": 3,
+        "oppose": 370,
+        "mixed": 9,
+        "unknown": 2
+      },
+      "percentages": {
+        "support": 0.8,
+        "oppose": 96.9,
+        "mixed": 2.4,
+        "unknown": 0.5
+      }
+    },
+    "acma2023-tranche-8-18dec23": {
+      "date": "2023-12-18",
+      "total": 338,
+      "analyzed": 334,
+      "positions": {
+        "support": 11,
+        "oppose": 315,
+        "mixed": 8,
+        "unknown": 4
+      },
+      "percentages": {
+        "support": 3.3,
+        "oppose": 94.3,
+        "mixed": 2.4,
+        "unknown": 1.2
+      }
+    },
+    "acma2023-tranche-9-21dec23": {
+      "date": "2023-12-21",
+      "total": 130,
+      "analyzed": 127,
+      "positions": {
+        "support": 3,
+        "oppose": 94,
+        "mixed": 30,
+        "unknown": 3
+      },
+      "percentages": {
+        "support": 2.4,
+        "oppose": 74.0,
+        "mixed": 23.6,
+        "unknown": 2.4
+      }
+    }
+  },
+  "by_stakeholder": {
+    "unknown": {
+      "support": 0,
+      "oppose": 0,
+      "mixed": 104,
+      "unknown": 0
+    },
+    "individual": {
+      "support": 4,
+      "oppose": 1960,
+      "mixed": 9,
+      "unknown": 0
+    },
+    "civil society": {
+      "support": 12,
+      "oppose": 58,
+      "mixed": 19,
+      "unknown": 0
+    },
+    "individual (senior english teacher)": {
+      "support": 0,
+      "oppose": 1,
+      "mixed": 0,
+      "unknown": 0
+    },
+    "n/a": {
+      "support": 0,
+      "oppose": 0,
+      "mixed": 4,
+      "unknown": 0
+    },
+    "academic": {
+      "support": 6,
+      "oppose": 13,
+      "mixed": 4,
+      "unknown": 0
+    },
+    "industry association": {
+      "support": 1,
+      "oppose": 3,
+      "mixed": 1,
+      "unknown": 0
+    },
+    "government/health department": {
+      "support": 0,
+      "oppose": 0,
+      "mixed": 2,
+      "unknown": 0
+    },
+    "international organization": {
+      "support": 0,
+      "oppose": 0,
+      "mixed": 2,
+      "unknown": 0
+    },
+    "media outlet": {
+      "support": 0,
+      "oppose": 2,
+      "mixed": 0,
+      "unknown": 0
+    },
+    "legal/legislative reference": {
+      "support": 0,
+      "oppose": 0,
+      "mixed": 1,
+      "unknown": 0
+    },
+    "intergovernmental organization": {
+      "support": 0,
+      "oppose": 0,
+      "mixed": 1,
+      "unknown": 0
+    },
+    "government": {
+      "support": 0,
+      "oppose": 0,
+      "mixed": 1,
+      "unknown": 0
+    },
+    "think tank": {
+      "support": 1,
+      "oppose": 0,
+      "mixed": 0,
+      "unknown": 0
+    },
+    "individual (honours law student)": {
+      "support": 0,
+      "oppose": 1,
+      "mixed": 0,
+      "unknown": 0
+    },
+    "political party": {
+      "support": 1,
+      "oppose": 5,
+      "mixed": 0,
+      "unknown": 0
+    },
+    "religious organization": {
+      "support": 0,
+      "oppose": 2,
+      "mixed": 0,
+      "unknown": 0
+    },
+    "individual (teacher)": {
+      "support": 0,
+      "oppose": 2,
+      "mixed": 0,
+      "unknown": 0
+    },
+    "civil society (australian medical professionals society)": {
+      "support": 0,
+      "oppose": 1,
+      "mixed": 0,
+      "unknown": 0
+    },
+    "individual (medical practitioner)": {
+      "support": 0,
+      "oppose": 1,
+      "mixed": 0,
+      "unknown": 0
+    },
+    "academic/research organization": {
+      "support": 0,
+      "oppose": 1,
+      "mixed": 0,
+      "unknown": 0
+    },
+    "individual (registered nurse)": {
+      "support": 0,
+      "oppose": 1,
+      "mixed": 0,
+      "unknown": 0
+    },
+    "tech company": {
+      "support": 1,
+      "oppose": 1,
+      "mixed": 3,
+      "unknown": 0
+    },
+    "civil society (religious organizations)": {
+      "support": 0,
+      "oppose": 1,
+      "mixed": 0,
+      "unknown": 0
+    },
+    "civil society group": {
+      "support": 0,
+      "oppose": 1,
+      "mixed": 0,
+      "unknown": 0
+    },
+    "civil society (think tank)": {
+      "support": 0,
+      "oppose": 1,
+      "mixed": 0,
+      "unknown": 0
+    },
+    "individual (librarian and information professional)": {
+      "support": 0,
+      "oppose": 1,
+      "mixed": 0,
+      "unknown": 0
+    },
+    "individual journalist": {
+      "support": 0,
+      "oppose": 1,
+      "mixed": 0,
+      "unknown": 0
+    },
+    "government official": {
+      "support": 0,
+      "oppose": 1,
+      "mixed": 0,
+      "unknown": 0
+    },
+    "educational institution": {
+      "support": 0,
+      "oppose": 1,
+      "mixed": 0,
+      "unknown": 0
+    },
+    "government agency": {
+      "support": 0,
+      "oppose": 0,
+      "mixed": 1,
+      "unknown": 0
+    },
+    "media company": {
+      "support": 0,
+      "oppose": 1,
+      "mixed": 0,
+      "unknown": 0
+    },
+    "civil society organization": {
+      "support": 3,
+      "oppose": 1,
+      "mixed": 0,
+      "unknown": 0
+    },
+    "individual (journalist/writer)": {
+      "support": 0,
+      "oppose": 1,
+      "mixed": 0,
+      "unknown": 0
+    },
+    "media organization": {
+      "support": 2,
+      "oppose": 1,
+      "mixed": 0,
+      "unknown": 0
+    },
+    "individual (member of parliament)": {
+      "support": 0,
+      "oppose": 2,
+      "mixed": 0,
+      "unknown": 0
+    },
+    "industry body": {
+      "support": 0,
+      "oppose": 1,
+      "mixed": 0,
+      "unknown": 0
+    },
+    "multistakeholder organization (global network initiative)": {
+      "support": 0,
+      "oppose": 1,
+      "mixed": 0,
+      "unknown": 0
+    },
+    "academic/research institution": {
+      "support": 1,
+      "oppose": 0,
+      "mixed": 0,
+      "unknown": 0
+    }
+  },
+  "metadata": {
+    "generated_at": "2024-11-12T14:00:54.654066",
+    "tranches_analyzed": 9
+  }
+}
