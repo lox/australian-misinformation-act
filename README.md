@@ -17,3 +17,7 @@ source venv/bin/activate
 pip install jupyter
 jupyter notebook
 ```
+
+## Data Summary
+
+See [SUMMARY.md](SUMMARY.md)
